@@ -1,6 +1,7 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Trần Mạnh Hùng (MSV: 2A202602708)  **Commit:** `34de3386194cf873ae46062374e2a602196892f8`  **Điểm tự động (`make grade`):** 88 / 88
+**Họ tên / nhóm:** Trần Mạnh Hùng (MSV: 2A202602708)  **Commit:** `91036ee106d14edeac070f536604663d33891c66`  **Điểm tự động (`make grade`):** 88 / 88
+
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
